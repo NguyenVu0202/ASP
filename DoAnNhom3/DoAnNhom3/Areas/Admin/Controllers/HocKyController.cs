@@ -9,8 +9,8 @@ namespace DoAnNhom3.Areas.Admin.Controllers
     public class HocKyController : Controller
     {
 		private readonly DataContext _dataContext;
-		private readonly ILogger<KhoaController> _logger;
-		public HocKyController(ILogger<KhoaController> logger, DataContext dataContext)
+		private readonly ILogger<HocKyController> _logger;
+		public HocKyController(ILogger<HocKyController> logger, DataContext dataContext)
 		{
 			_logger = logger;
 			_dataContext = dataContext;

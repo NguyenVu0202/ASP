@@ -1,0 +1,34 @@
+﻿@model DoAnNhom3.Models.TaiLieuDTO;
+
+@{
+    ViewData["Title"] = "ThemTaiLieu";
+    Layout = "~/Areas/Admin/Views/Shared/_LayoutAdmin.cshtml";
+}
+
+<!-- Form Add -->
+        <div style="display: flex; justify-content: center; align-items: center; margin-top: 20px; margin-bottom: 20px;">
+            <form class="register-form" asp-action="ThemTaiLieu" method="post" enctype="multipart/form-data">
+                <h2>Thêm tài liệu</h2>
+
+                <label for="documentName">Tên tài liệu</label>
+                <input type="text" placeholder="Tên tài liệu" required asp-for="TenTaiLieu">
+
+                <label>Khoa</label>
+                <select asp-items="ViewBag.KhoaId" asp-for="KhoaId">
+                </select>
+
+                <label>Học kỳ</label>
+                <select asp-items="ViewBag.HocKyId" asp-for="HocKyId">
+                </select>
+
+                <label for="price">Giá</label>
+                <input type="text" placeholder="Giá tài liệu" required asp-for="Gia">
+
+                <label for="fileUpload">Hình tài liệu</label>
+                <input type="file" class="form-control" asp-for="HinhTaiLieu">
+                    <span asp-validation-for="HinhTaiLieu" class="text-danger"></span>
+
+                <input type="submit" value="Thêm tài liệu">
+            </form>
+        </div>
+         <!-- /Form Add -->

@@ -1,7 +1,36 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\NGUYEN VU\\Desktop\\DoAnNhom3\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{389F40BE-4334-4288-A344-CB98CEF478F6}|DoAnNhom3\\DoAnNhom3.csproj|c:\\users\\nguyen vu\\desktop\\doannhom3\\doannhom3\\areas\\admin\\views\\tailieu\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{389F40BE-4334-4288-A344-CB98CEF478F6}|DoAnNhom3\\DoAnNhom3.csproj|solutionrelative:doannhom3\\areas\\admin\\views\\tailieu\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{389F40BE-4334-4288-A344-CB98CEF478F6}|DoAnNhom3\\DoAnNhom3.csproj|c:\\users\\nguyen vu\\desktop\\doannhom3\\doannhom3\\areas\\admin\\views\\khoa\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{389F40BE-4334-4288-A344-CB98CEF478F6}|DoAnNhom3\\DoAnNhom3.csproj|solutionrelative:doannhom3\\areas\\admin\\views\\khoa\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{389F40BE-4334-4288-A344-CB98CEF478F6}|DoAnNhom3\\DoAnNhom3.csproj|c:\\users\\nguyen vu\\desktop\\doannhom3\\doannhom3\\areas\\admin\\controllers\\tailieucontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{389F40BE-4334-4288-A344-CB98CEF478F6}|DoAnNhom3\\DoAnNhom3.csproj|solutionrelative:doannhom3\\areas\\admin\\controllers\\tailieucontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{389F40BE-4334-4288-A344-CB98CEF478F6}|DoAnNhom3\\DoAnNhom3.csproj|c:\\users\\nguyen vu\\desktop\\doannhom3\\doannhom3\\areas\\admin\\views\\tailieu\\suatailieu.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{389F40BE-4334-4288-A344-CB98CEF478F6}|DoAnNhom3\\DoAnNhom3.csproj|solutionrelative:doannhom3\\areas\\admin\\views\\tailieu\\suatailieu.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{389F40BE-4334-4288-A344-CB98CEF478F6}|DoAnNhom3\\DoAnNhom3.csproj|c:\\users\\nguyen vu\\desktop\\doannhom3\\doannhom3\\areas\\admin\\controllers\\hockycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{389F40BE-4334-4288-A344-CB98CEF478F6}|DoAnNhom3\\DoAnNhom3.csproj|solutionrelative:doannhom3\\areas\\admin\\controllers\\hockycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{389F40BE-4334-4288-A344-CB98CEF478F6}|DoAnNhom3\\DoAnNhom3.csproj|c:\\users\\nguyen vu\\desktop\\doannhom3\\doannhom3\\areas\\admin\\views\\tailieu\\themtailieu.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{389F40BE-4334-4288-A344-CB98CEF478F6}|DoAnNhom3\\DoAnNhom3.csproj|solutionrelative:doannhom3\\areas\\admin\\views\\tailieu\\themtailieu.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{389F40BE-4334-4288-A344-CB98CEF478F6}|DoAnNhom3\\DoAnNhom3.csproj|c:\\users\\nguyen vu\\desktop\\doannhom3\\doannhom3\\areas\\admin\\views\\khoa\\themkhoa.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{389F40BE-4334-4288-A344-CB98CEF478F6}|DoAnNhom3\\DoAnNhom3.csproj|solutionrelative:doannhom3\\areas\\admin\\views\\khoa\\themkhoa.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,7 +38,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -17,89 +46,94 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "SuaKhoa.cshtml",
-              "DocumentMoniker": "C:\\Users\\NGUYEN VU\\Desktop\\DoAnNhom3\\DoAnNhom3\\Areas\\Admin\\Views\\Khoa\\SuaKhoa.cshtml",
-              "RelativeDocumentMoniker": "DoAnNhom3\\Areas\\Admin\\Views\\Khoa\\SuaKhoa.cshtml",
-              "ToolTip": "C:\\Users\\NGUYEN VU\\Desktop\\DoAnNhom3\\DoAnNhom3\\Areas\\Admin\\Views\\Khoa\\SuaKhoa.cshtml",
-              "RelativeToolTip": "DoAnNhom3\\Areas\\Admin\\Views\\Khoa\\SuaKhoa.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAA2AAAA",
+              "DocumentIndex": 3,
+              "Title": "SuaTaiLieu.cshtml",
+              "DocumentMoniker": "C:\\Users\\NGUYEN VU\\Desktop\\DoAnNhom3\\DoAnNhom3\\Areas\\Admin\\Views\\TaiLieu\\SuaTaiLieu.cshtml",
+              "RelativeDocumentMoniker": "DoAnNhom3\\Areas\\Admin\\Views\\TaiLieu\\SuaTaiLieu.cshtml",
+              "ToolTip": "C:\\Users\\NGUYEN VU\\Desktop\\DoAnNhom3\\DoAnNhom3\\Areas\\Admin\\Views\\TaiLieu\\SuaTaiLieu.cshtml",
+              "RelativeToolTip": "DoAnNhom3\\Areas\\Admin\\Views\\TaiLieu\\SuaTaiLieu.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAjAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-26T10:23:01.464Z",
+              "WhenOpened": "2024-10-26T17:22:46.034Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ThemKhoa.cshtml",
+              "DocumentMoniker": "C:\\Users\\NGUYEN VU\\Desktop\\DoAnNhom3\\DoAnNhom3\\Areas\\Admin\\Views\\Khoa\\ThemKhoa.cshtml",
+              "RelativeDocumentMoniker": "DoAnNhom3\\Areas\\Admin\\Views\\Khoa\\ThemKhoa.cshtml",
+              "ToolTip": "C:\\Users\\NGUYEN VU\\Desktop\\DoAnNhom3\\DoAnNhom3\\Areas\\Admin\\Views\\Khoa\\ThemKhoa.cshtml",
+              "RelativeToolTip": "DoAnNhom3\\Areas\\Admin\\Views\\Khoa\\ThemKhoa.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-26T16:43:28.062Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ThemTaiLieu.cshtml",
+              "DocumentMoniker": "C:\\Users\\NGUYEN VU\\Desktop\\DoAnNhom3\\DoAnNhom3\\Areas\\Admin\\Views\\TaiLieu\\ThemTaiLieu.cshtml",
+              "RelativeDocumentMoniker": "DoAnNhom3\\Areas\\Admin\\Views\\TaiLieu\\ThemTaiLieu.cshtml",
+              "ToolTip": "C:\\Users\\NGUYEN VU\\Desktop\\DoAnNhom3\\DoAnNhom3\\Areas\\Admin\\Views\\TaiLieu\\ThemTaiLieu.cshtml",
+              "RelativeToolTip": "DoAnNhom3\\Areas\\Admin\\Views\\TaiLieu\\ThemTaiLieu.cshtml",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAACEAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-26T16:42:33.071Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\NGUYEN VU\\Desktop\\DoAnNhom3\\DoAnNhom3\\Areas\\Admin\\Views\\Khoa\\Index.cshtml",
+              "RelativeDocumentMoniker": "DoAnNhom3\\Areas\\Admin\\Views\\Khoa\\Index.cshtml",
+              "ToolTip": "C:\\Users\\NGUYEN VU\\Desktop\\DoAnNhom3\\DoAnNhom3\\Areas\\Admin\\Views\\Khoa\\Index.cshtml",
+              "RelativeToolTip": "DoAnNhom3\\Areas\\Admin\\Views\\Khoa\\Index.cshtml",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAACQAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-26T16:30:07.115Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\NGUYEN VU\\Desktop\\DoAnNhom3\\DoAnNhom3\\Areas\\Admin\\Views\\Khoa\\Index.cshtml",
-              "RelativeDocumentMoniker": "DoAnNhom3\\Areas\\Admin\\Views\\Khoa\\Index.cshtml",
-              "ToolTip": "C:\\Users\\NGUYEN VU\\Desktop\\DoAnNhom3\\DoAnNhom3\\Areas\\Admin\\Views\\Khoa\\Index.cshtml",
-              "RelativeToolTip": "DoAnNhom3\\Areas\\Admin\\Views\\Khoa\\Index.cshtml",
-              "ViewState": "AQIAAA8AAAAAAAAAAAAAABcAAAAZAAAA",
+              "DocumentMoniker": "C:\\Users\\NGUYEN VU\\Desktop\\DoAnNhom3\\DoAnNhom3\\Areas\\Admin\\Views\\TaiLieu\\Index.cshtml",
+              "RelativeDocumentMoniker": "DoAnNhom3\\Areas\\Admin\\Views\\TaiLieu\\Index.cshtml",
+              "ToolTip": "C:\\Users\\NGUYEN VU\\Desktop\\DoAnNhom3\\DoAnNhom3\\Areas\\Admin\\Views\\TaiLieu\\Index.cshtml",
+              "RelativeToolTip": "DoAnNhom3\\Areas\\Admin\\Views\\TaiLieu\\Index.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAACUAAABcAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-26T09:47:50.67Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "KhoaController.cs",
-              "DocumentMoniker": "C:\\Users\\NGUYEN VU\\Desktop\\DoAnNhom3\\DoAnNhom3\\Areas\\Admin\\Controllers\\KhoaController.cs",
-              "RelativeDocumentMoniker": "DoAnNhom3\\Areas\\Admin\\Controllers\\KhoaController.cs",
-              "ToolTip": "C:\\Users\\NGUYEN VU\\Desktop\\DoAnNhom3\\DoAnNhom3\\Areas\\Admin\\Controllers\\KhoaController.cs",
-              "RelativeToolTip": "DoAnNhom3\\Areas\\Admin\\Controllers\\KhoaController.cs",
-              "ViewState": "AQIAADUAAAAAAAAAAAAwwEYAAAAxAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-26T09:32:17.354Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "_LayoutAdmin.cshtml",
-              "DocumentMoniker": "C:\\Users\\NGUYEN VU\\Desktop\\DoAnNhom3\\DoAnNhom3\\Areas\\Admin\\Views\\Shared\\_LayoutAdmin.cshtml",
-              "RelativeDocumentMoniker": "DoAnNhom3\\Areas\\Admin\\Views\\Shared\\_LayoutAdmin.cshtml",
-              "ToolTip": "C:\\Users\\NGUYEN VU\\Desktop\\DoAnNhom3\\DoAnNhom3\\Areas\\Admin\\Views\\Shared\\_LayoutAdmin.cshtml",
-              "RelativeToolTip": "DoAnNhom3\\Areas\\Admin\\Views\\Shared\\_LayoutAdmin.cshtml",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAwwCwAAAAEAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-26T08:15:46.831Z",
+              "WhenOpened": "2024-10-26T16:56:38.017Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "HomeAdminController.cs",
-              "DocumentMoniker": "C:\\Users\\NGUYEN VU\\Desktop\\DoAnNhom3\\DoAnNhom3\\Areas\\Admin\\Controllers\\HomeAdminController.cs",
-              "RelativeDocumentMoniker": "DoAnNhom3\\Areas\\Admin\\Controllers\\HomeAdminController.cs",
-              "ToolTip": "C:\\Users\\NGUYEN VU\\Desktop\\DoAnNhom3\\DoAnNhom3\\Areas\\Admin\\Controllers\\HomeAdminController.cs",
-              "RelativeToolTip": "DoAnNhom3\\Areas\\Admin\\Controllers\\HomeAdminController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAARAAAA",
+              "Title": "HocKyController.cs",
+              "DocumentMoniker": "C:\\Users\\NGUYEN VU\\Desktop\\DoAnNhom3\\DoAnNhom3\\Areas\\Admin\\Controllers\\HocKyController.cs",
+              "RelativeDocumentMoniker": "DoAnNhom3\\Areas\\Admin\\Controllers\\HocKyController.cs",
+              "ToolTip": "C:\\Users\\NGUYEN VU\\Desktop\\DoAnNhom3\\DoAnNhom3\\Areas\\Admin\\Controllers\\HocKyController.cs",
+              "RelativeToolTip": "DoAnNhom3\\Areas\\Admin\\Controllers\\HocKyController.cs",
+              "ViewState": "AQIAADQAAAAAAAAAAAAYwEUAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-26T08:14:07.167Z",
+              "WhenOpened": "2024-10-26T16:27:19.866Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "20241021143806_NewMigration.cs",
-              "DocumentMoniker": "C:\\Users\\NGUYEN VU\\Desktop\\DoAnNhom3\\DoAnNhom3\\Migrations\\20241021143806_NewMigration.cs",
-              "RelativeDocumentMoniker": "DoAnNhom3\\Migrations\\20241021143806_NewMigration.cs",
-              "ToolTip": "C:\\Users\\NGUYEN VU\\Desktop\\DoAnNhom3\\DoAnNhom3\\Migrations\\20241021143806_NewMigration.cs",
-              "RelativeToolTip": "DoAnNhom3\\Migrations\\20241021143806_NewMigration.cs",
-              "ViewState": "AQIAADQAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "DocumentIndex": 2,
+              "Title": "TaiLieuController.cs",
+              "DocumentMoniker": "C:\\Users\\NGUYEN VU\\Desktop\\DoAnNhom3\\DoAnNhom3\\Areas\\Admin\\Controllers\\TaiLieuController.cs",
+              "RelativeDocumentMoniker": "DoAnNhom3\\Areas\\Admin\\Controllers\\TaiLieuController.cs",
+              "ToolTip": "C:\\Users\\NGUYEN VU\\Desktop\\DoAnNhom3\\DoAnNhom3\\Areas\\Admin\\Controllers\\TaiLieuController.cs",
+              "RelativeToolTip": "DoAnNhom3\\Areas\\Admin\\Controllers\\TaiLieuController.cs",
+              "ViewState": "AQIAAHoAAAAAAAAAAAAwwIsAAAARAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-21T14:38:06.437Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "20241021143230_FristMigration.cs",
-              "DocumentMoniker": "G:\\ASP.Net Core\\DoAnNhom3\\DoAnNhom3\\Migrations\\20241021143230_FristMigration.cs",
-              "ToolTip": "G:\\ASP.Net Core\\DoAnNhom3\\DoAnNhom3\\Migrations\\20241021143230_FristMigration.cs",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-21T14:32:30.532Z"
+              "WhenOpened": "2024-10-26T16:24:53.774Z",
+              "EditorCaption": ""
             }
           ]
         }
