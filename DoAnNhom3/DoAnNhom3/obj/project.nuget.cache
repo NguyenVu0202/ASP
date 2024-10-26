@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "f9BngSynflGUM0jmDlgMj/RDn8krn37qn1vSAsCXItVJzKw8AWsRVAcox+4SwZnlKHR7ZHP9CBIBs4aQCX87bQ==",
+  "dgSpecHash": "heBwSqNLTK2I6DRwSjl5Gd5t4DUX24nWExgRKSmQgtdDX0ydLQ5fVb11PGkQZtEc99jrtStVETuCPi0JpPDVrA==",
   "success": true,
-  "projectFilePath": "G:\\ASP.Net Core\\DoAnNhom3\\DoAnNhom3\\DoAnNhom3.csproj",
+  "projectFilePath": "C:\\Users\\NGUYEN VU\\Desktop\\DoAnNhom3\\DoAnNhom3\\DoAnNhom3.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\NGUYEN VU\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\NGUYEN VU\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",

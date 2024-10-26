@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "G:\\ASP.Net Core\\DoAnNhom3\\DoAnNhom3\\DoAnNhom3.csproj": {}
+    "C:\\Users\\NGUYEN VU\\Desktop\\DoAnNhom3\\DoAnNhom3\\DoAnNhom3.csproj": {}
   },
   "projects": {
-    "G:\\ASP.Net Core\\DoAnNhom3\\DoAnNhom3\\DoAnNhom3.csproj": {
+    "C:\\Users\\NGUYEN VU\\Desktop\\DoAnNhom3\\DoAnNhom3\\DoAnNhom3.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "G:\\ASP.Net Core\\DoAnNhom3\\DoAnNhom3\\DoAnNhom3.csproj",
+        "projectUniqueName": "C:\\Users\\NGUYEN VU\\Desktop\\DoAnNhom3\\DoAnNhom3\\DoAnNhom3.csproj",
         "projectName": "DoAnNhom3",
-        "projectPath": "G:\\ASP.Net Core\\DoAnNhom3\\DoAnNhom3\\DoAnNhom3.csproj",
+        "projectPath": "C:\\Users\\NGUYEN VU\\Desktop\\DoAnNhom3\\DoAnNhom3\\DoAnNhom3.csproj",
         "packagesPath": "C:\\Users\\NGUYEN VU\\.nuget\\packages\\",
-        "outputPath": "G:\\ASP.Net Core\\DoAnNhom3\\DoAnNhom3\\obj\\",
+        "outputPath": "C:\\Users\\NGUYEN VU\\Desktop\\DoAnNhom3\\DoAnNhom3\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "D:\\DevExpress 21.2\\Components\\Offline Packages"

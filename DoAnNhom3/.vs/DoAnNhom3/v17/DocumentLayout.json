@@ -1,14 +1,33 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "G:\\ASP.Net Core\\DoAnNhom3\\",
+  "WorkspaceRootPath": "C:\\Users\\NGUYEN VU\\Desktop\\DoAnNhom3\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|G:\\ASP.Net Core\\DoAnNhom3\\DoAnNhom3\\Migrations\\20241021143806_NewMigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DoAnNhom3\\Migrations\\20241021143806_NewMigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{389F40BE-4334-4288-A344-CB98CEF478F6}|DoAnNhom3\\DoAnNhom3.csproj|c:\\users\\nguyen vu\\desktop\\doannhom3\\doannhom3\\areas\\admin\\views\\khoa\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{389F40BE-4334-4288-A344-CB98CEF478F6}|DoAnNhom3\\DoAnNhom3.csproj|solutionrelative:doannhom3\\areas\\admin\\views\\khoa\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|G:\\ASP.Net Core\\DoAnNhom3\\DoAnNhom3\\Migrations\\20241021143230_FristMigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DoAnNhom3\\Migrations\\20241021143230_FristMigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{389F40BE-4334-4288-A344-CB98CEF478F6}|DoAnNhom3\\DoAnNhom3.csproj|c:\\users\\nguyen vu\\desktop\\doannhom3\\doannhom3\\areas\\admin\\controllers\\khoacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{389F40BE-4334-4288-A344-CB98CEF478F6}|DoAnNhom3\\DoAnNhom3.csproj|solutionrelative:doannhom3\\areas\\admin\\controllers\\khoacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{389F40BE-4334-4288-A344-CB98CEF478F6}|DoAnNhom3\\DoAnNhom3.csproj|c:\\users\\nguyen vu\\desktop\\doannhom3\\doannhom3\\areas\\admin\\views\\khoa\\suakhoa.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{389F40BE-4334-4288-A344-CB98CEF478F6}|DoAnNhom3\\DoAnNhom3.csproj|solutionrelative:doannhom3\\areas\\admin\\views\\khoa\\suakhoa.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{389F40BE-4334-4288-A344-CB98CEF478F6}|DoAnNhom3\\DoAnNhom3.csproj|c:\\users\\nguyen vu\\desktop\\doannhom3\\doannhom3\\areas\\admin\\views\\shared\\_layoutadmin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{389F40BE-4334-4288-A344-CB98CEF478F6}|DoAnNhom3\\DoAnNhom3.csproj|solutionrelative:doannhom3\\areas\\admin\\views\\shared\\_layoutadmin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{389F40BE-4334-4288-A344-CB98CEF478F6}|DoAnNhom3\\DoAnNhom3.csproj|c:\\users\\nguyen vu\\desktop\\doannhom3\\doannhom3\\areas\\admin\\controllers\\homeadmincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{389F40BE-4334-4288-A344-CB98CEF478F6}|DoAnNhom3\\DoAnNhom3.csproj|solutionrelative:doannhom3\\areas\\admin\\controllers\\homeadmincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{389F40BE-4334-4288-A344-CB98CEF478F6}|DoAnNhom3\\DoAnNhom3.csproj|c:\\users\\nguyen vu\\desktop\\doannhom3\\doannhom3\\migrations\\20241021143806_newmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{389F40BE-4334-4288-A344-CB98CEF478F6}|DoAnNhom3\\DoAnNhom3.csproj|solutionrelative:doannhom3\\migrations\\20241021143806_newmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|G:\\ASP.Net Core\\DoAnNhom3\\DoAnNhom3\\Migrations\\20241021143230_FristMigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,7 +37,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -26,25 +45,87 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SuaKhoa.cshtml",
+              "DocumentMoniker": "C:\\Users\\NGUYEN VU\\Desktop\\DoAnNhom3\\DoAnNhom3\\Areas\\Admin\\Views\\Khoa\\SuaKhoa.cshtml",
+              "RelativeDocumentMoniker": "DoAnNhom3\\Areas\\Admin\\Views\\Khoa\\SuaKhoa.cshtml",
+              "ToolTip": "C:\\Users\\NGUYEN VU\\Desktop\\DoAnNhom3\\DoAnNhom3\\Areas\\Admin\\Views\\Khoa\\SuaKhoa.cshtml",
+              "RelativeToolTip": "DoAnNhom3\\Areas\\Admin\\Views\\Khoa\\SuaKhoa.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-26T10:23:01.464Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "20241021143806_NewMigration.cs",
-              "DocumentMoniker": "G:\\ASP.Net Core\\DoAnNhom3\\DoAnNhom3\\Migrations\\20241021143806_NewMigration.cs",
-              "RelativeDocumentMoniker": "DoAnNhom3\\Migrations\\20241021143806_NewMigration.cs",
-              "ToolTip": "G:\\ASP.Net Core\\DoAnNhom3\\DoAnNhom3\\Migrations\\20241021143806_NewMigration.cs",
-              "RelativeToolTip": "DoAnNhom3\\Migrations\\20241021143806_NewMigration.cs",
-              "ViewState": "AQIAADQAAAAAAAAAAAAQwAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-21T14:38:06.437Z",
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\NGUYEN VU\\Desktop\\DoAnNhom3\\DoAnNhom3\\Areas\\Admin\\Views\\Khoa\\Index.cshtml",
+              "RelativeDocumentMoniker": "DoAnNhom3\\Areas\\Admin\\Views\\Khoa\\Index.cshtml",
+              "ToolTip": "C:\\Users\\NGUYEN VU\\Desktop\\DoAnNhom3\\DoAnNhom3\\Areas\\Admin\\Views\\Khoa\\Index.cshtml",
+              "RelativeToolTip": "DoAnNhom3\\Areas\\Admin\\Views\\Khoa\\Index.cshtml",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAABcAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-26T09:47:50.67Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "KhoaController.cs",
+              "DocumentMoniker": "C:\\Users\\NGUYEN VU\\Desktop\\DoAnNhom3\\DoAnNhom3\\Areas\\Admin\\Controllers\\KhoaController.cs",
+              "RelativeDocumentMoniker": "DoAnNhom3\\Areas\\Admin\\Controllers\\KhoaController.cs",
+              "ToolTip": "C:\\Users\\NGUYEN VU\\Desktop\\DoAnNhom3\\DoAnNhom3\\Areas\\Admin\\Controllers\\KhoaController.cs",
+              "RelativeToolTip": "DoAnNhom3\\Areas\\Admin\\Controllers\\KhoaController.cs",
+              "ViewState": "AQIAADUAAAAAAAAAAAAwwEYAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T09:32:17.354Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_LayoutAdmin.cshtml",
+              "DocumentMoniker": "C:\\Users\\NGUYEN VU\\Desktop\\DoAnNhom3\\DoAnNhom3\\Areas\\Admin\\Views\\Shared\\_LayoutAdmin.cshtml",
+              "RelativeDocumentMoniker": "DoAnNhom3\\Areas\\Admin\\Views\\Shared\\_LayoutAdmin.cshtml",
+              "ToolTip": "C:\\Users\\NGUYEN VU\\Desktop\\DoAnNhom3\\DoAnNhom3\\Areas\\Admin\\Views\\Shared\\_LayoutAdmin.cshtml",
+              "RelativeToolTip": "DoAnNhom3\\Areas\\Admin\\Views\\Shared\\_LayoutAdmin.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAwwCwAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-26T08:15:46.831Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HomeAdminController.cs",
+              "DocumentMoniker": "C:\\Users\\NGUYEN VU\\Desktop\\DoAnNhom3\\DoAnNhom3\\Areas\\Admin\\Controllers\\HomeAdminController.cs",
+              "RelativeDocumentMoniker": "DoAnNhom3\\Areas\\Admin\\Controllers\\HomeAdminController.cs",
+              "ToolTip": "C:\\Users\\NGUYEN VU\\Desktop\\DoAnNhom3\\DoAnNhom3\\Areas\\Admin\\Controllers\\HomeAdminController.cs",
+              "RelativeToolTip": "DoAnNhom3\\Areas\\Admin\\Controllers\\HomeAdminController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T08:14:07.167Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "20241021143806_NewMigration.cs",
+              "DocumentMoniker": "C:\\Users\\NGUYEN VU\\Desktop\\DoAnNhom3\\DoAnNhom3\\Migrations\\20241021143806_NewMigration.cs",
+              "RelativeDocumentMoniker": "DoAnNhom3\\Migrations\\20241021143806_NewMigration.cs",
+              "ToolTip": "C:\\Users\\NGUYEN VU\\Desktop\\DoAnNhom3\\DoAnNhom3\\Migrations\\20241021143806_NewMigration.cs",
+              "RelativeToolTip": "DoAnNhom3\\Migrations\\20241021143806_NewMigration.cs",
+              "ViewState": "AQIAADQAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T14:38:06.437Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "20241021143230_FristMigration.cs",
               "DocumentMoniker": "G:\\ASP.Net Core\\DoAnNhom3\\DoAnNhom3\\Migrations\\20241021143230_FristMigration.cs",
-              "RelativeDocumentMoniker": "DoAnNhom3\\Migrations\\20241021143230_FristMigration.cs",
               "ToolTip": "G:\\ASP.Net Core\\DoAnNhom3\\DoAnNhom3\\Migrations\\20241021143230_FristMigration.cs",
-              "RelativeToolTip": "DoAnNhom3\\Migrations\\20241021143230_FristMigration.cs",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-21T14:32:30.532Z"
             }
