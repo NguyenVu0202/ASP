@@ -26,6 +26,18 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = C:\Users\NGUYEN VU\Desktop\DoAnNhom3\DoAnNhom3
 build_property._RazorSourceGeneratorDebug = 
 
+[C:/Users/NGUYEN VU/Desktop/DoAnNhom3/DoAnNhom3/Areas/Admin/Views/HocKy/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcSG9jS3lcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/NGUYEN VU/Desktop/DoAnNhom3/DoAnNhom3/Areas/Admin/Views/HocKy/SuaHocKy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcSG9jS3lcU3VhSG9jS3kuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/NGUYEN VU/Desktop/DoAnNhom3/DoAnNhom3/Areas/Admin/Views/HocKy/ThemHocKy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcSG9jS3lcVGhlbUhvY0t5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/NGUYEN VU/Desktop/DoAnNhom3/DoAnNhom3/Areas/Admin/Views/HomeAdmin/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcSG9tZUFkbWluXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
