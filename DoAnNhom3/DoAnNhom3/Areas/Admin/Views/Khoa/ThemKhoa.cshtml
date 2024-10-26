@@ -1,0 +1,18 @@
+﻿@model DoAnNhom3.Models.KhoaModel;
+
+@{
+    ViewData["Title"] = "ThemKhoa";
+    Layout = "~/Areas/Admin/Views/Shared/_LayoutAdmin.cshtml";
+}
+
+<!-- Form Add -->
+        <div style="display: flex; justify-content: center; align-items: center; margin-top: 20px; margin-bottom: 20px;">
+            <form asp-action="ThemKhoa" class="register-form" method="post">
+                <h2>Thêm khoa</h2>
+                <label for="documentName">Tên khoa</label>
+                <input type="text" class="form-control" placeholder="Nhập tên khoa" required asp-for="TenKhoa">                    
+
+                <input type="submit" value="Thêm khoa">
+            </form>
+        </div>
+         <!-- /Form Add -->
