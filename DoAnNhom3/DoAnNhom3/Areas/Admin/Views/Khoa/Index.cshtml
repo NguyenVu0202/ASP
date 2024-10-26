@@ -1,0 +1,41 @@
+﻿@model IEnumerable<DoAnNhom3.Models.KhoaModel>
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Areas/Admin/Views/Shared/_LayoutAdmin.cshtml";
+}
+
+<!--Table-->
+        <div style="text-align: center; margin-bottom: 20px; margin-top: 20px;">
+            <h2 style="margin-bottom: 20px;">Danh sách khoa</h2>
+            <div style="text-align: left; margin-left: 10%; margin-bottom: 20px">
+                 <a
+                    asp-action="ThemKhoa"
+                    class="btn btn-success"
+                    ><i class="bi bi-pencil"></i
+                    ><span>Thêm Khoa Mới</span>
+                  </a>
+            </div>
+            <table border="1" style="margin: auto; border-collapse: collapse; width: 80%;">
+                <thead>
+                    <tr style="background-color: #f2f2f2;">
+                        <th style="padding: 12px; text-align: center;">Mã khoa</th>
+                        <th style="padding: 12px; text-align: center;">Tên khoa</th>
+                        <th style="padding: 12px; text-align: center;">Actions</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (var item in Model)
+            {
+                <tr>
+                    <td style="padding: 8px; text-align: center;">@item.Id</td>
+                    <td style="padding: 8px;">@item.TenKhoa</td>
+                    <td style="padding: 8px; text-align: center;">
+                        <a asp-action="SuaKhoa" asp-route-id="@item.Id" style="color: blue; text-decoration: none;">Edit</a> | 
+                        <a asp-action="XoaKhoa" asp-route-id="@item.Id" onclick="return confirm('Bạn muốn xóa khoa này?')" style="color: red; text-decoration: none;">Delete</a>
+                    </td>
+                </tr>               
+            }
+        </tbody>
+            </table>
+        </div>         
+        <!-- /Table -->

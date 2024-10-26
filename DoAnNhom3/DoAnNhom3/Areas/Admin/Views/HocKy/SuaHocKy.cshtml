@@ -1,0 +1,19 @@
+﻿@model DoAnNhom3.Models.HocKyModel;
+
+@{
+    ViewData["Title"] = "SuaHocKy";
+    Layout = "~/Areas/Admin/Views/Shared/_LayoutAdmin.cshtml";
+}
+
+<!-- Form Add -->
+        <div style="display: flex; justify-content: center; align-items: center; margin-top: 20px; margin-bottom: 20px;">
+            <form asp-action="SuaHocKy" class="register-form" method="post">
+                <h2>Sửa Học Kỳ</h2>
+                <input type="hidden" class="form-control" asp-for="Id">
+                <label for="documentName">Tên khoa</label>
+                <input type="text" class="form-control" placeholder="Nhập tên khoa" required asp-for="TenHK">                    
+
+                <input type="submit" value="Sửa Học Kỳ">
+            </form>
+        </div>
+         <!-- /Form Add -->
